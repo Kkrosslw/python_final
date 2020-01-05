@@ -18,3 +18,9 @@ Python期末项目
 - 通过网址后缀进行数据交互
 #### Web App动作描述   
  通过下拉选框进行对数据的清洗、分析、查看，用户选择进行交互数据的筛选，起到数据交互的效果
+#### 页面
+- [首页](http://liwenkross.pythonanywhere.com/)   
+- [信息表单](http://liwenkross.pythonanywhere.com/all) 
+- [信息表单内跳转](http://liwenkross.pythonanywhere.com/city)
+- [全球分布图](http://liwenkross.pythonanywhere.com/map)
+- [各国门店排名](http://liwenkross.pythonanywhere.com/country)
